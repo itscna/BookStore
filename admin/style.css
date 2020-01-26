@@ -1,0 +1,38 @@
+/* Category add */
+form{
+  margin:30px auto;
+  width:700px;
+}
+/*  Book lists */
+h1{
+  background:#ada9a9;
+  padding:5px 10px;
+}
+.books p{
+  font-size:17px;
+  line-height:1.5em;
+}
+.books ul li{
+  list-style:none;
+  padding:15px 20px;
+}
+.nav ul{
+  background-color:#898686;
+  margin:0;
+  padding:0;
+}
+.nav ul li{
+  list-style-type:none;
+  float:left;
+  border-right:1px solid #1abc9c;
+}
+.nav ul li a{
+  display:block;
+  width:200px;
+  color:white;
+  padding:10px 20px;
+  text-align:center;
+}
+.nav ul li a:hover{
+  background-color:#d0c2ea;
+}
